@@ -19,16 +19,16 @@
 
 
 ## Explore Page ( Weather various cities )
+<img width=34% height=34% alt="2" src="https://github.com/ihid0/React-Native-WeatherApp/assets/108215978/ff859156-1ef7-419c-9a48-0396baa0c148">
 
-<img width=34% height=34% alt="2" src="https://github.com/ihid0/React-Native-WeatherApp/assets/108215978/7e9419ac-d68e-491c-b030-b4af0d733bc0">
-
-<img width=34% height=34% alt="3" src="https://github.com/ihid0/React-Native-WeatherApp/assets/108215978/27479089-d87a-4e68-8b6f-6990a37e8c2d">
+<img width=34% height=34% alt="3" src="https://github.com/ihid0/React-Native-WeatherApp/assets/108215978/fd1fde65-c70a-4c79-b01d-7876116b899d">
 
 
 
 ## Install
+> In Project Directory :
 ```sh
-In Project Directory : npm i
+ npm install
 ```
 
 ## Show your support
